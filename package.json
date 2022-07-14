@@ -1,12 +1,13 @@
 {
-  "name": "tradeogre",
+  "name": "tradeogre-lib",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Tradeogre rest api with promise",
+  "keywords": ["tradeogre", "trading", "crypto"],
+  "main": "src/TradeOgre.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "netwarp zn.gaming@gmail.com",
   "license": "ISC"
 }
