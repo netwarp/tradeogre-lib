@@ -1,5 +1,7 @@
 # TradeOgre lib
 
+![Ogre logo](logo.svg)
+
 Tradeogre rest api with promise.  
 Node version: 18+
 
