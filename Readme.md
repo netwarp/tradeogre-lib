@@ -1,6 +1,7 @@
 # TradeOgre lib
 
-Tradeogre rest api with promise
+Tradeogre rest api with promise.  
+Node version: 18+
 
 ## Usage
 
