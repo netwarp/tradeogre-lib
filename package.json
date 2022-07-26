@@ -9,5 +9,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "netwarp zn.gaming@gmail.com",
-  "license": "ISC"
+  "license": "WTFPL",
+  "engines": {
+    "node": ">=18.0"
+  }
 }
