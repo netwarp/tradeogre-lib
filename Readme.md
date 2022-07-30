@@ -1,6 +1,6 @@
 # TradeOgre lib
 
-![Ogre logo](logo.svg)
+![Ogre logo](https://raw.githubusercontent.com/netwarp/tradeogre-lib/master/logo.svg)
 
 Tradeogre rest api with promise.  
 Node version: 18+
