@@ -3,8 +3,8 @@ import auth from '../env.json' assert {type: 'json'}
 
 const tradeogre = new TradeOgre(auth.key, auth.secret)
 
-const markets = await tradeogre.markets()
-console.log(markets)
+//const markets = await tradeogre.markets()
+//console.log(markets)
 
 //const orders = await tradeogre.orders('BTC-XMR')
 //console.log(orders)
@@ -26,6 +26,9 @@ console.log(markets)
 
 //const orders = await tradeogre.orders()
 //console.log(orders)
+
+//const order = await tradeogre.order('uuid')
+//console.log(order)
 
 //const balance = await tradeogre.balance('BTC')
 //console.log(balance)

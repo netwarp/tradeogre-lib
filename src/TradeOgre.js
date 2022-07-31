@@ -151,6 +151,15 @@ class TradeOgre {
 
     /**
      *
+     * @param {string} uuid
+     * @returns {Promise<void>}
+     */
+    async order(uuid) {
+        return await this.get(`/account/order/${uuid}`, true)
+    }
+
+    /**
+     *
      * @param {string} currency
      * @returns {Promise<any>}
      */
