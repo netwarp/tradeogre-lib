@@ -1,6 +1,6 @@
 {
   "name": "tradeogre-lib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Tradeogre rest api with promise",
   "keywords": ["tradeogre", "trading", "crypto"],
   "main": "src/TradeOgre.js",
