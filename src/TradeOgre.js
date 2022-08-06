@@ -75,7 +75,7 @@ class TradeOgre {
      * @param {string} market
      * @returns {Promise<*>}
      */
-    async orders(market) {
+    async ordersBook(market) {
         return await this.get(`/orders/${market}`);
     }
 
