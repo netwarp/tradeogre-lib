@@ -1,10 +1,16 @@
 {
   "name": "tradeogre-lib",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Tradeogre rest api with promise",
-  "keywords": ["tradeogre", "trading", "crypto"],
+  "keywords": ["tradeogre", "trading", "crypto", "api"],
   "main": "src/TradeOgre.js",
   "type": "module",
+  "licence": "MIT",
+  "homepage": "https://github.com/netwarp/tradeogre-lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/netwarp/tradeogre-lib"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
